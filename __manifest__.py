@@ -3,7 +3,7 @@
     'version': '1.0',
     'summary': 'Gestión de vehículos de la empresa',
     'description': 'Este módulo gestiona los vehículos disponibles en la empresa.',
-    'author': 'Paco Navas',
+    'author': 'Marta',
     'category': 'Tools',
     'depends': ['base'],
     'data': [
